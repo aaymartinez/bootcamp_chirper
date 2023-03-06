@@ -8,7 +8,7 @@
 </p>
 
 ## Learning Laravel
-
+<img width="975" alt="Chirper" src="https://user-images.githubusercontent.com/16698267/223066072-04dcd836-509b-43ee-a69e-1e185f23fe04.png">
 Learning Laravel through [Laravel Bootstrap](https://bootcamp.laravel.com/) featuring "Chirper", a microblogging platform.
 In here, I learned building a modern Laravel application from scratch. 
 
