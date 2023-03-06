@@ -12,6 +12,9 @@
 Learning Laravel through [Laravel Bootstrap](https://bootcamp.laravel.com/) featuring "Chirper", a microblogging platform.
 In here, I learned building a modern Laravel application from scratch. 
 
+<br/><br/>
+Uses PHP (Laravel), HTML, CSS (a bit of Tailwindcss)
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
