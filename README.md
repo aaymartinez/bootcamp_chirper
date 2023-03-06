@@ -13,7 +13,7 @@
 Learning Laravel through [Laravel Bootstrap](https://bootcamp.laravel.com/) featuring "Chirper", a microblogging platform.
 In here, I learned building a modern Laravel application from scratch. 
 <br/><br/>
-Uses PHP (Laravel), HTML, CSS (a bit of Tailwindcss)
+Uses PHP (Laravel), HTML (Blade), CSS (a bit of Tailwindcss)
 
 ## License
 
